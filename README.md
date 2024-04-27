@@ -1,2 +1,4 @@
-# novidades-versoes-java
-Novidades que surgiram com as novas versões do java
+## Java e suas versões 
+
+Nesse projeto você verá exemplo do uso de funcionalidades que surgiram desde o java 8 ao 11, passando por:
+Try catch com recursos, operador diamante, multicatch, optional, objects, lambda, interface funcional e alguns outros
